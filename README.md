@@ -1,6 +1,6 @@
 ![logo](https://github.com/coder8820/coder8820/blob/main/github%20banner1.png)
 <h1 align="center">Hi 👋, I'm Kumail abbass</h1>
-<h3 align="center">A passionate SOC Analyst from Pakistan</h3>
+<h3 align="center">Blue Team Defence | SOC Analyst from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sarthakvs/sarthakvs/main/coding.gif">
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **SOC L2**
 
-- 💬 Ask me about **Networking Linux OS and SOC**
+- 💬 Ask me about **Networking | Linux OS | SOC**
 
 - 📫 How to reach me **coder8820@gmail.com**
 

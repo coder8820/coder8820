@@ -1,14 +1,14 @@
 ![logo](https://github.com/coder8820/coder8820/blob/main/github%20banner2.png)
-<h1 align="center">Hi 👋, I'm Kumail abbass</h1>
+<h1 align="center">Hi 👋, I'm Kumail Abbas</h1>
 <h3 align="center">Blue Team Defence | SOC Analyst from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/sarthakvs/sarthakvs/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder8820&label=Profile%20views&color=0e75b6&style=flat" alt="coder8820" /> </p>
 
-- 🌱 I’m currently learning **SOC L2**
+- 🌱 I’m currently learning **Defensive Security**
 
-- 💬 Ask me about **Networking | Linux OS | SOC**
+- 💬 Ask me about **Networking | Linux OS | CyberSecurity**
 
 - 📫 How to reach me **coder8820@gmail.com**
 
